@@ -1,6 +1,6 @@
 # 🔒 DOCX Anonymizer
 
-A professional-grade tool for anonymizing sensitive information in Word documents. Built with Python, Streamlit, and python-docx.
+A tool for anonymizing sensitive information in Word documents. Built with Python, Streamlit, and python-docx.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.41+-red.svg)
@@ -147,3 +147,4 @@ Contributions welcome! Please open an issue or submit a pull request.
 ---
 
 Built with ❤️ using Python
+
