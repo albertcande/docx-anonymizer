@@ -31,7 +31,7 @@ A tool for anonymizing sensitive information in Word documents. Built with Pytho
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/docx-anonymizer.git
+git clone https://github.com/albertcande/docx-anonymizer.git
 cd docx-anonymizer
 
 # Install dependencies
@@ -147,4 +147,5 @@ Contributions welcome! Please open an issue or submit a pull request.
 ---
 
 Built with ❤️ using Python
+
 
